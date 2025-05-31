@@ -1,0 +1,17 @@
+@use 'variables' as v;
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: v.$border-width-thin solid v.$primary-color;
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: v.$dark-color;
+  color: white;
+}

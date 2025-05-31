@@ -1,0 +1,50 @@
+@use 'variables' as v;
+
+// Backgrounds
+.bg-primary { background: v.$primary-color; }
+.bg-secondary { background: v.$secondary-color; }
+.bg-dark { background: v.$dark-color; }
+.bg-light { background: v.$light-color; }
+
+// Text Colors
+.text-white { color: v.$text-color; }
+.text-dark { color: v.$dark-color; }
+.text-center {text-align: center;}
+
+.w-100{ width: 100%;}
+// Margins
+.m-0 { margin: 0; }
+.m-1 { margin: 5px; }
+.m-2 { margin: 10px; }
+
+// Padding
+.p-0 { padding: 0; }
+.p-1 { padding: 5px; }
+.p-2 { padding: 10px; }
+
+// Font sizes
+.fs-small { font-size: v.$font-size-small; }
+.fs-medium { font-size: v.$font-size-base; }
+.fs-large { font-size: v.$font-size-large; }
+
+// Font weight
+.fw-light { font-weight: v.$font-weight-light; }
+.fw-normal { font-weight: v.$font-weight-normal; }
+.fw-bold { font-weight: v.$font-weight-bold; }
+
+// Borders
+.border { border: v.$border-width-thin solid v.$primary-color; }
+.border-none { border: none; }
+.border-thin { border: v.$border-width-thin solid v.$secondary-color; }
+.border-thick { border: v.$border-width-thick solid v.$success-color; }
+.border-rounded { border-radius: v.$border-radius-sm; }
+.border-circle { border-radius: 50%; }
+
+// Shadows
+.shadow-lg { box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.3); }
+.shadow-md { box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); }
+.shadow-sm { box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); }
+
+.hidden{
+    display: none;
+}
