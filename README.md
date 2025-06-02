@@ -122,3 +122,14 @@ CSS-Flare is a lightweight and modular **CSS framework** built with **Sass**, pr
         ```sh
         sass scss/main.scss css/main.css
 
+<img width="1710" alt="Screenshot 2025-06-02 at 2 46 15 PM" src="https://github.com/user-attachments/assets/3c42b164-4cef-4fe4-880e-25acba7571b1" />
+
+<img width="1710" alt="Screenshot 2025-06-02 at 2 42 09 PM" src="https://github.com/user-attachments/assets/55420566-ae11-41c9-b440-d01f4bfb16ec" />
+<img width="1710" alt="Screenshot 2025-06-02 at 2 42 15 PM" src="https://github.com/user-attachments/assets/20204ceb-610d-4620-bcb7-101bd03a39b8" />
+
+<img width="1710" alt="Screenshot 2025-06-02 at 2 42 22 PM" src="https://github.com/user-attachments/assets/2c16d102-a0bb-481a-a9d8-cfd9e93e2f0d" />
+<img width="1710" alt="Screenshot 2025-06-02 at 2 42 28 PM" src="https://github.com/user-attachments/assets/830353a6-5692-4030-b9c0-c91b574c6aa3" />
+
+<img width="1710" alt="Screenshot 2025-06-02 at 2 42 35 PM" src="https://github.com/user-attachments/assets/66448c4b-e262-4888-ba72-9db89ca94080" />
+
+
